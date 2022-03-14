@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /index.html
+Disallow: /cgi-bin/
+Disallow: /font/
+Disallow: /img/
+Disallow: /sass/
+Allow: /assets/*
+Allow: /*.js*
+Allow: /*.css*
+Disallow: /*swf*/
+Sitemap: http://www.greyuzcategui.com.ve/sitemap.xml
